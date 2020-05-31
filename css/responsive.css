@@ -1,0 +1,59 @@
+/* responsive part started from here */
+
+
+
+@media all and (max-width: 715px){
+	.middle-area{
+		width:95%;
+	}
+}
+
+@media all and (max-width: 599px){
+	.middle-area{
+		width:100%;
+	}
+}
+
+@media all and (max-width: 568px){
+.login-area{
+	margin-top:7px;
+}
+}
+
+@media all and (max-width: 564px){
+		.login-first{
+	float:none;
+}
+
+
+.login-second{
+	float:none;
+}
+
+
+.login-submit{
+	float:none;
+	margin:auto;
+}
+
+.logo-area{
+	width:100%;
+	
+}
+
+.login-area form{
+	float:none;
+}
+
+.login-area input[type='text'],
+.login-area input[type='password']{
+	width:100%;
+}
+
+
+.login-area{
+	margin-left:14px;
+}
+
+
+}
